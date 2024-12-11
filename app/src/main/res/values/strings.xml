@@ -1,0 +1,34 @@
+
+<resources>
+<string name="app_name">30 Days of RecipeGym</string>
+
+<string name="date1">recipe day 1</string>
+<string name="title1">ches day</string>
+<string name="description1">chesday adalah hari dimana kita melatih otot dada ini adalah resep pertama untuk menjadikan badan kita.</string>
+
+<string name="date2">recipe day 2</string>
+<string name="title2">back day</string>
+<string name="description2">back day adalah hari dimana kita melatih otot punggug ini adalah salah satu resep menjadikan badan kita kekar.</string>
+
+<string name="date3">recipe day 3</string>
+<string name="title3">shoulder day</string>
+<string name="description3">shoulder day adalah hari dimakan kita melatoh otot bahu ini adalah salah satu resep mejadikan badan kita kekar .</string>
+
+<string name="date4">recipe day 4</string>
+<string name="title4">leg day</string>
+<string name="description4">leg day adalah hari terberat karena melatih keselurahan otot kaki dan ini adalah salah satu resep menjadikan badan kita kekar.</string>
+
+<string name="date5">recipe day 5</string>
+<string name="title5">rest day</string>
+<string name="description5">ini adalah hari dimana kita istirahat penuh.</string>
+
+<string name="date6">recipe day 6</string>
+<string name="title6">power day</string>
+<string name="description6">ini adalah hari dimana kita melatih power seperti bech press full beban dan deadlift.</string>
+
+<string name="date7">recipe day 7</string>
+<string name="title7">rest day</string>
+<string name="description7">ii adalah hari terkahir istirahat sebelum kita mengulang jadwal resep menjadi kekar.</string>
+
+
+</resources>
